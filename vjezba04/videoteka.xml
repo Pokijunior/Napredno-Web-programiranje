@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Videoteka>
+
+  <Film id="f001" zanr="akcija">
+    <Naziv>Die Hard</Naziv>
+    <Redatelj>John McTiernan</Redatelj>
+    <GodinaIzdanja>1988</GodinaIzdanja>
+    <Trajanje>132</Trajanje>
+    <Ocjena>8.2</Ocjena>
+  </Film>
+
+  <Film id="f002" zanr="drama">
+    <Naziv>The Shawshank Redemption</Naziv>
+    <Redatelj>Frank Darabont</Redatelj>
+    <GodinaIzdanja>1994</GodinaIzdanja>
+    <Trajanje>142</Trajanje>
+    <Ocjena>9.3</Ocjena>
+  </Film>
+
+  <Film id="f003" zanr="komedija">
+    <Naziv>Home Alone</Naziv>
+    <Redatelj>Chris Columbus</Redatelj>
+    <GodinaIzdanja>1990</GodinaIzdanja>
+    <Trajanje>103</Trajanje>
+    <Ocjena>7.7</Ocjena>
+  </Film>
+
+  <Film id="f004" zanr="sci-fi">
+    <Naziv>Interstellar</Naziv>
+    <Redatelj>Christopher Nolan</Redatelj>
+    <GodinaIzdanja>2014</GodinaIzdanja>
+    <Trajanje>169</Trajanje>
+    <Ocjena>8.7</Ocjena>
+  </Film>
+
+  <Film id="f005" zanr="animacija">
+    <Naziv>The Lion King</Naziv>
+    <Redatelj>Roger Allers</Redatelj>
+    <GodinaIzdanja>1994</GodinaIzdanja>
+    <Trajanje>88</Trajanje>
+    <Ocjena>8.5</Ocjena>
+  </Film>
+
+</Videoteka>
