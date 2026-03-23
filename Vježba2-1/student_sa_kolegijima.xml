@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+    <ime>Vatroslav</ime>
+    <prezime>Pobjeguljić</prezime>
+    <jmbg>0104999123456</jmbg>
+    <datum_rodenja>1999-04-01</datum_rodenja>
+    <godina_studija>8</godina_studija> <kontakt>
+        <email>necu.diplomirati@menza.hr</email>
+        <telefon>09123456789</telefon>
+    </kontakt>
+
+    <kolegiji>
+        <kolegij>
+            <naziv_kolegija>Uvod u izbjegavanje obaveza</naziv_kolegija>
+            <ime_profesora>Strogi Miro</ime_profesora>
+            <ects_bodova>2</ects_bodova>
+        </kolegij>
+        <kolegij>
+            <naziv_kolegija>Napredno skrolanje po mobitelu</naziv_kolegija>
+            <ime_profesora>Asistentica Tipkalić</ime_profesora>
+            <ects_bodova>5</ects_bodova>
+        </kolegij>
+        <kolegij>
+            <naziv_kolegija>Teorija i praksa ispijanja kave</naziv_kolegija>
+            <ime_profesora>Prof. Dr. Kofein</ime_profesora>
+            <ects_bodova>10</ects_bodova> </kolegij>
+    </kolegiji>
+</student>
